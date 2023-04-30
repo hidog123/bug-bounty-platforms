@@ -6,7 +6,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 
 | Name | Location | Twitter | Active | Private/Public | Bounties | Hall of Fame | Program List |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| Antihack.me | Singapore | ❌ | ✅ | 🤫 + 📣  | ✅ | https://www.antihack.me/leaderboard | ❓ |
+| [BugBeat] | Singapore | ❌ | ✅ | 🤫 + 📣  | ✅ | [https://bugbeat.tech/] | ❓ |
 | Bug Bounty Switzerland | Switzerland | [@bugbounty_ch](https://twitter.com/bugbounty_ch) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Bug Hunt | Brazil | ❓ | ✅ | 🤫 + 📣  | ✅ | https://bughunt.com.br/ranking-bughunters.html | ❓ |
 | bugbounty.jp | Japan | [@BugBounty_jp](https://twitter.com/BugBounty_jp) | ✅ | 🤫 + 📣  | ✅ | https://bugbounty.jp/users/ranking | https://bugbounty.jp/program/list |
